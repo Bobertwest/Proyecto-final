@@ -22,4 +22,12 @@ Para la simulación se utilizo el software de proteus, donde se simulaba el codi
 
 No hay mucho que mencionar sobre la mayoria de los materiales ya que son muy comunes, de todas formas el circuito esta en este repositorio
 
-https://github.com/Bobertwest/Proyecto-final/blob/master/circuito.png
+[AQUI LA IMAGEN DEL CIRCUITO](https://github.com/Bobertwest/Proyecto-final/blob/master/circuito.png)
+
+## Funcionamiento
+
+Tenemos el circuito, y sabemos lo que hace, bien; pero ¿como funciona realmente o como se opera?
+
+El circuito tiene una serie de pulsadores, donde 4 estan destinados a controlar la posicion de los dos servomotores, dos para cada servo. Al iniciar el programa, los servos se posicionan en un punto especifico, llamemosle _"set 0"_. como se dijo, cada servo funciona con dos pulsadores donde al presionar uno, el servo aumentara su posicion de uno en uno hasta que este se deje de presionar, de igual manera con el otro pulsador, pero en sentido contrario.
+
+para entender como pasa esto hay que entender bien como funciona el servo motor y el PWM
