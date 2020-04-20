@@ -21,3 +21,5 @@ Para la simulación se utilizo el software de proteus, donde se simulaba el codi
 * fuente de alimentacion externa para los motores.
 
 No hay mucho que mencionar sobre la mayoria de los materiales ya que son muy comunes, de todas formas el circuito esta en este repositorio
+
+https://github.com/Bobertwest/Proyecto-final/blob/master/circuito.png
